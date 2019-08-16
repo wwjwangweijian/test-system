@@ -13,7 +13,7 @@ vue + vue-router + vue-router + webpack + ES6/7
 ## 项目运行
 
 
-git clone https://github.com/lvpangpang/vue-answering.git
+
 
 cd vue-answering
 
